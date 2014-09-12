@@ -13,7 +13,7 @@ setup(
     long_description=read('README.md'),
     author='Julian Pulgarin',
     author_email='jp@julianpulgarin.com',
-    url='https://github.com/jpulgarin/django-tokenapi',
+    url='https://github.com/dheeraj1991/django-tokenapi-json/',
     packages=['tokenapi'],
     license='Apache License, Version 2.0',
 )
